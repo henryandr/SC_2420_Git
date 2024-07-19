@@ -1,4 +1,4 @@
 # Actividad evaluativa Git y GitHub
-Nombre del estudiante:
+Nombre del estudiante:  
 Id: 
 ---
